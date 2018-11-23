@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
+<<<<<<< HEAD
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "connect-multiparty": "^2.2.0",
@@ -17,6 +20,9 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
+=======
+    "reactstrap": "^6.5.0"
+>>>>>>> 29b3356b8f89bcdd7976cb4f78f9de670c9e708f
   },
   "scripts": {
     "start": "nodemon index.js",
